@@ -1,0 +1,27 @@
+generation code cost fitness population_size goal_size
+0 CekW8R)O}|;T4 2555.0 100 13
+10 meYlm$x%;rYd^ 5014.0 100 13
+20 mellm$"%;rYd# 6028.0 100 13
+30 mellm$ %;rYda 6818.0 100 13
+40 mellm$ %orndA 7769.0 100 13
+50 Nellm$ 5orndA 7816.0 100 13
+60 =ellm, korkdA 8684.0 100 13
+70 =ellm, \orndA 8698.0 100 13
+80 Qelnm, \ornd1 7864.0 100 13
+90 Qello, \ornd$ 9581.0 100 13
+100 Fello, \ornd$ 9588.0 100 13
+110 Fello, \ornd$ 9588.0 100 13
+120 Gello, \ormd$ 9590.0 100 13
+130 Gello, Tormd$ 9592.0 100 13
+140 Gello, Tormd# 9593.0 100 13
+150 GeSlo, Yormd# 8719.0 100 13
+160 GeXlo, Yormd# 8724.0 100 13
+170 Gello, Yorld# 10445.0 100 13
+180 Gello, Yorld# 10445.0 100 13
+190 Gello, World# 11297.0 100 13
+200 Gello, World# 11297.0 100 13
+210 Gello, World# 11297.0 100 13
+220 Gello, World# 11297.0 100 13
+230 Gello, World# 11297.0 100 13
+240 Hello, World" 12149.0 100 13
+247 Hello, World! 13000 100 13
